@@ -1254,6 +1254,8 @@ _Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming
 - [Stash](https://stashapp.cc) - A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ([Source Code](https://github.com/stashapp/stash)) `AGPL-3.0` `Docker/Go`
 - [µStreamer](https://github.com/pikvm/ustreamer) - Lightweight and very quick server to stream MJPEG video from any V4L2 device to the net. `GPL-3.0` `C/deb`
 - [üWave](https://u-wave.net/) `⚠` - Self-hosted collaborative listening platform. Users take turns playing media—songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud. ([Demo](https://wlk.yt/), [Source Code](https://github.com/u-wave)) `MIT` `Nodejs`
+- [ErsatzTV](https://ersatztv.org) - ErsatzTV is beta software for configuring and streaming custom live channels using your media library. The software may be unstable and is under active development. ([Source Code](https://github.com/u-wave](https://github.com/ErsatzTV/ErsatzTV)) `Zlib` `C#`
+- [ErsatzTV-Filler](https://liam8888999.github.io/ErsatzTV-Filler/) - ErsatzTV-Filler is software for generating filler videos like adverts for use in ErsatzTV or other related projects. ([Source Code]([https://github.com/liam8888999/ErsatzTV-Filler)) `GPL-3.0` `Nodejs`
 
 
 ### Media Streaming - Video Streaming
